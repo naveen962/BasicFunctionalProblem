@@ -1,0 +1,14 @@
+C:\Users\INDIA\source\repos\LargestNumber\LargestNumber\bin\Debug\netcoreapp3.1\LargestNumber.exe
+C:\Users\INDIA\source\repos\LargestNumber\LargestNumber\bin\Debug\netcoreapp3.1\LargestNumber.deps.json
+C:\Users\INDIA\source\repos\LargestNumber\LargestNumber\bin\Debug\netcoreapp3.1\LargestNumber.runtimeconfig.json
+C:\Users\INDIA\source\repos\LargestNumber\LargestNumber\bin\Debug\netcoreapp3.1\LargestNumber.runtimeconfig.dev.json
+C:\Users\INDIA\source\repos\LargestNumber\LargestNumber\bin\Debug\netcoreapp3.1\LargestNumber.dll
+C:\Users\INDIA\source\repos\LargestNumber\LargestNumber\bin\Debug\netcoreapp3.1\LargestNumber.pdb
+C:\Users\INDIA\source\repos\LargestNumber\LargestNumber\obj\Debug\netcoreapp3.1\LargestNumber.csproj.AssemblyReference.cache
+C:\Users\INDIA\source\repos\LargestNumber\LargestNumber\obj\Debug\netcoreapp3.1\LargestNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\INDIA\source\repos\LargestNumber\LargestNumber\obj\Debug\netcoreapp3.1\LargestNumber.AssemblyInfoInputs.cache
+C:\Users\INDIA\source\repos\LargestNumber\LargestNumber\obj\Debug\netcoreapp3.1\LargestNumber.AssemblyInfo.cs
+C:\Users\INDIA\source\repos\LargestNumber\LargestNumber\obj\Debug\netcoreapp3.1\LargestNumber.csproj.CoreCompileInputs.cache
+C:\Users\INDIA\source\repos\LargestNumber\LargestNumber\obj\Debug\netcoreapp3.1\LargestNumber.dll
+C:\Users\INDIA\source\repos\LargestNumber\LargestNumber\obj\Debug\netcoreapp3.1\LargestNumber.pdb
+C:\Users\INDIA\source\repos\LargestNumber\LargestNumber\obj\Debug\netcoreapp3.1\LargestNumber.genruntimeconfig.cache
