@@ -1,0 +1,14 @@
+C:\Users\INDIA\source\repos\PrimeFactor\PrimeFactor\bin\Debug\netcoreapp3.1\PrimeFactor.exe
+C:\Users\INDIA\source\repos\PrimeFactor\PrimeFactor\bin\Debug\netcoreapp3.1\PrimeFactor.deps.json
+C:\Users\INDIA\source\repos\PrimeFactor\PrimeFactor\bin\Debug\netcoreapp3.1\PrimeFactor.runtimeconfig.json
+C:\Users\INDIA\source\repos\PrimeFactor\PrimeFactor\bin\Debug\netcoreapp3.1\PrimeFactor.runtimeconfig.dev.json
+C:\Users\INDIA\source\repos\PrimeFactor\PrimeFactor\bin\Debug\netcoreapp3.1\PrimeFactor.dll
+C:\Users\INDIA\source\repos\PrimeFactor\PrimeFactor\bin\Debug\netcoreapp3.1\PrimeFactor.pdb
+C:\Users\INDIA\source\repos\PrimeFactor\PrimeFactor\obj\Debug\netcoreapp3.1\PrimeFactor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\INDIA\source\repos\PrimeFactor\PrimeFactor\obj\Debug\netcoreapp3.1\PrimeFactor.AssemblyInfoInputs.cache
+C:\Users\INDIA\source\repos\PrimeFactor\PrimeFactor\obj\Debug\netcoreapp3.1\PrimeFactor.AssemblyInfo.cs
+C:\Users\INDIA\source\repos\PrimeFactor\PrimeFactor\obj\Debug\netcoreapp3.1\PrimeFactor.csproj.CoreCompileInputs.cache
+C:\Users\INDIA\source\repos\PrimeFactor\PrimeFactor\obj\Debug\netcoreapp3.1\PrimeFactor.dll
+C:\Users\INDIA\source\repos\PrimeFactor\PrimeFactor\obj\Debug\netcoreapp3.1\PrimeFactor.pdb
+C:\Users\INDIA\source\repos\PrimeFactor\PrimeFactor\obj\Debug\netcoreapp3.1\PrimeFactor.genruntimeconfig.cache
+C:\Users\INDIA\source\repos\PrimeFactor\PrimeFactor\obj\Debug\netcoreapp3.1\PrimeFactor.csproj.AssemblyReference.cache
