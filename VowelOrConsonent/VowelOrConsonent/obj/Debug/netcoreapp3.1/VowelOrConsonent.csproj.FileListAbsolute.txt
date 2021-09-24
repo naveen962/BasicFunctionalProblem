@@ -1,0 +1,14 @@
+C:\Users\INDIA\source\repos\VowelOrConsonent\VowelOrConsonent\bin\Debug\netcoreapp3.1\VowelOrConsonent.exe
+C:\Users\INDIA\source\repos\VowelOrConsonent\VowelOrConsonent\bin\Debug\netcoreapp3.1\VowelOrConsonent.deps.json
+C:\Users\INDIA\source\repos\VowelOrConsonent\VowelOrConsonent\bin\Debug\netcoreapp3.1\VowelOrConsonent.runtimeconfig.json
+C:\Users\INDIA\source\repos\VowelOrConsonent\VowelOrConsonent\bin\Debug\netcoreapp3.1\VowelOrConsonent.runtimeconfig.dev.json
+C:\Users\INDIA\source\repos\VowelOrConsonent\VowelOrConsonent\bin\Debug\netcoreapp3.1\VowelOrConsonent.dll
+C:\Users\INDIA\source\repos\VowelOrConsonent\VowelOrConsonent\bin\Debug\netcoreapp3.1\VowelOrConsonent.pdb
+C:\Users\INDIA\source\repos\VowelOrConsonent\VowelOrConsonent\obj\Debug\netcoreapp3.1\VowelOrConsonent.csproj.AssemblyReference.cache
+C:\Users\INDIA\source\repos\VowelOrConsonent\VowelOrConsonent\obj\Debug\netcoreapp3.1\VowelOrConsonent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\INDIA\source\repos\VowelOrConsonent\VowelOrConsonent\obj\Debug\netcoreapp3.1\VowelOrConsonent.AssemblyInfoInputs.cache
+C:\Users\INDIA\source\repos\VowelOrConsonent\VowelOrConsonent\obj\Debug\netcoreapp3.1\VowelOrConsonent.AssemblyInfo.cs
+C:\Users\INDIA\source\repos\VowelOrConsonent\VowelOrConsonent\obj\Debug\netcoreapp3.1\VowelOrConsonent.csproj.CoreCompileInputs.cache
+C:\Users\INDIA\source\repos\VowelOrConsonent\VowelOrConsonent\obj\Debug\netcoreapp3.1\VowelOrConsonent.dll
+C:\Users\INDIA\source\repos\VowelOrConsonent\VowelOrConsonent\obj\Debug\netcoreapp3.1\VowelOrConsonent.pdb
+C:\Users\INDIA\source\repos\VowelOrConsonent\VowelOrConsonent\obj\Debug\netcoreapp3.1\VowelOrConsonent.genruntimeconfig.cache
