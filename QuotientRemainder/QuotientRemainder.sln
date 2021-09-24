@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuotientRemainder", "QuotientRemainder\QuotientRemainder.csproj", "{9EA71E38-1DD2-4C8E-9682-B73851F0071B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwapTwoNos", "SwapTwoNos\SwapTwoNos.csproj", "{AEA4EF22-87FC-4C64-AEBA-2D79E8950362}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9EA71E38-1DD2-4C8E-9682-B73851F0071B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EA71E38-1DD2-4C8E-9682-B73851F0071B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EA71E38-1DD2-4C8E-9682-B73851F0071B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EA71E38-1DD2-4C8E-9682-B73851F0071B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEA4EF22-87FC-4C64-AEBA-2D79E8950362}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEA4EF22-87FC-4C64-AEBA-2D79E8950362}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEA4EF22-87FC-4C64-AEBA-2D79E8950362}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEA4EF22-87FC-4C64-AEBA-2D79E8950362}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8BF279C2-5049-4517-800C-C5FAC6FCFA9C}
+	EndGlobalSection
+EndGlobal
