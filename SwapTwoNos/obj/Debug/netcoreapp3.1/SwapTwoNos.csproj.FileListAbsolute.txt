@@ -1,0 +1,14 @@
+C:\Users\INDIA\source\repos\QuotientRemainder\SwapTwoNos\bin\Debug\netcoreapp3.1\SwapTwoNos.exe
+C:\Users\INDIA\source\repos\QuotientRemainder\SwapTwoNos\bin\Debug\netcoreapp3.1\SwapTwoNos.deps.json
+C:\Users\INDIA\source\repos\QuotientRemainder\SwapTwoNos\bin\Debug\netcoreapp3.1\SwapTwoNos.runtimeconfig.json
+C:\Users\INDIA\source\repos\QuotientRemainder\SwapTwoNos\bin\Debug\netcoreapp3.1\SwapTwoNos.runtimeconfig.dev.json
+C:\Users\INDIA\source\repos\QuotientRemainder\SwapTwoNos\bin\Debug\netcoreapp3.1\SwapTwoNos.dll
+C:\Users\INDIA\source\repos\QuotientRemainder\SwapTwoNos\bin\Debug\netcoreapp3.1\SwapTwoNos.pdb
+C:\Users\INDIA\source\repos\QuotientRemainder\SwapTwoNos\obj\Debug\netcoreapp3.1\SwapTwoNos.csproj.AssemblyReference.cache
+C:\Users\INDIA\source\repos\QuotientRemainder\SwapTwoNos\obj\Debug\netcoreapp3.1\SwapTwoNos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\INDIA\source\repos\QuotientRemainder\SwapTwoNos\obj\Debug\netcoreapp3.1\SwapTwoNos.AssemblyInfoInputs.cache
+C:\Users\INDIA\source\repos\QuotientRemainder\SwapTwoNos\obj\Debug\netcoreapp3.1\SwapTwoNos.AssemblyInfo.cs
+C:\Users\INDIA\source\repos\QuotientRemainder\SwapTwoNos\obj\Debug\netcoreapp3.1\SwapTwoNos.csproj.CoreCompileInputs.cache
+C:\Users\INDIA\source\repos\QuotientRemainder\SwapTwoNos\obj\Debug\netcoreapp3.1\SwapTwoNos.dll
+C:\Users\INDIA\source\repos\QuotientRemainder\SwapTwoNos\obj\Debug\netcoreapp3.1\SwapTwoNos.pdb
+C:\Users\INDIA\source\repos\QuotientRemainder\SwapTwoNos\obj\Debug\netcoreapp3.1\SwapTwoNos.genruntimeconfig.cache
