@@ -1,0 +1,14 @@
+C:\Users\INDIA\source\repos\FlipCoin\FlipCoin\bin\Debug\netcoreapp3.1\FlipCoin.exe
+C:\Users\INDIA\source\repos\FlipCoin\FlipCoin\bin\Debug\netcoreapp3.1\FlipCoin.deps.json
+C:\Users\INDIA\source\repos\FlipCoin\FlipCoin\bin\Debug\netcoreapp3.1\FlipCoin.runtimeconfig.json
+C:\Users\INDIA\source\repos\FlipCoin\FlipCoin\bin\Debug\netcoreapp3.1\FlipCoin.runtimeconfig.dev.json
+C:\Users\INDIA\source\repos\FlipCoin\FlipCoin\bin\Debug\netcoreapp3.1\FlipCoin.dll
+C:\Users\INDIA\source\repos\FlipCoin\FlipCoin\bin\Debug\netcoreapp3.1\FlipCoin.pdb
+C:\Users\INDIA\source\repos\FlipCoin\FlipCoin\obj\Debug\netcoreapp3.1\FlipCoin.csproj.AssemblyReference.cache
+C:\Users\INDIA\source\repos\FlipCoin\FlipCoin\obj\Debug\netcoreapp3.1\FlipCoin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\INDIA\source\repos\FlipCoin\FlipCoin\obj\Debug\netcoreapp3.1\FlipCoin.AssemblyInfoInputs.cache
+C:\Users\INDIA\source\repos\FlipCoin\FlipCoin\obj\Debug\netcoreapp3.1\FlipCoin.AssemblyInfo.cs
+C:\Users\INDIA\source\repos\FlipCoin\FlipCoin\obj\Debug\netcoreapp3.1\FlipCoin.csproj.CoreCompileInputs.cache
+C:\Users\INDIA\source\repos\FlipCoin\FlipCoin\obj\Debug\netcoreapp3.1\FlipCoin.dll
+C:\Users\INDIA\source\repos\FlipCoin\FlipCoin\obj\Debug\netcoreapp3.1\FlipCoin.pdb
+C:\Users\INDIA\source\repos\FlipCoin\FlipCoin\obj\Debug\netcoreapp3.1\FlipCoin.genruntimeconfig.cache
